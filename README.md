@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+## String
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
