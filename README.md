@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sandeep4118/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sandeep4118/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sandeep4118/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
