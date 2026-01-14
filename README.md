@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/1470-shuffle-the-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
