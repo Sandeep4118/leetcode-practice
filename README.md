@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Sandeep4118/leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Sandeep4118/leetcode-practice/tree/master/0066-plus-one) |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Sandeep4118/leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
