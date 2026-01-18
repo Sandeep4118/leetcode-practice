@@ -7,12 +7,13 @@ class Solution {
 
         int count = 0;
         for(int i = nums.size()-1; i>=0; i--){
+            
+            if(arr.size()==0)  break;
             count++;
 
             if(arr.contains(nums.get(i))){
                 arr.remove(Integer.valueOf(nums.get(i)));
             }
-            if(arr.size()==0)  break;
 
         }
         return count;
