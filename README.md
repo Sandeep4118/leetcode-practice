@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sandeep4118/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Prefix Sum
 |  |
 | ------- |
