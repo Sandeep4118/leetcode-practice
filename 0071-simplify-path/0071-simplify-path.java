@@ -16,6 +16,8 @@ class Solution {
         }
         if(st.isEmpty())return "/";
 
+
+        // work on both two stack or extra string array
         // String[] word2 = new String[st.size()];
         // for(int i = st.size()-1; i>=0; i--){
         //     word2[i] = st.pop();
