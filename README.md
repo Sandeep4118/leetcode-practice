@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sandeep4118/leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/Sandeep4118/leetcode-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Sandeep4118/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sandeep4118/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Sandeep4118/leetcode-practice/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep4118/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Sandeep4118/leetcode-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Sandeep4118/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sandeep4118/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sandeep4118/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
