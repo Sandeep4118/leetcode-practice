@@ -16,14 +16,14 @@ class Solution {
         for(int i = 0; i<prices.length; i++){
             while(!st.isEmpty() && prices[st.peek()]>=prices[i]){
                 int index = st.pop();
-                result[index] = prices[index] - prices[i];
+                prices[index] = prices[index] - prices[i];
             }
             st.push(i);
         }
-        while(!st.isEmpty()){
-            int index2 = st.pop();
-            result[index2] = prices[index2];
-        }
-        return result;
+        // while(!st.isEmpty()){
+        //     int index2 = st.pop();
+        //     result[index2] = prices[index2];
+        // }
+        return prices;
     }
 }
