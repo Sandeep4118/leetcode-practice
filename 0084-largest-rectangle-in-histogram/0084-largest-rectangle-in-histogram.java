@@ -23,7 +23,7 @@ class Solution {
         Stack<Integer> st1 = new Stack<>();
         for(int i = 0; i<heights.length; i++){
             while(!st1.isEmpty() && heights[st1.peek()]>=heights[i]){
-                int index1 = st1.pop();
+                st1.pop();
             }
 
             if(!st1.isEmpty()){
