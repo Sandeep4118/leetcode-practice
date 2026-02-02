@@ -1,7 +1,7 @@
 class Solution {
     public static int[] nextSmallerElement(int[] heights, int h){
         int [] next1 = new int[heights.length];
-        Arrays.fill(next1,-1);
+        // Arrays.fill(next1,-1);
         Stack<Integer> st = new Stack<>();
         for(int i = 0; i<heights.length; i++){
             while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
@@ -19,7 +19,7 @@ class Solution {
 
     public static int[] previousSmallerElement(int[] heights, int h){
         int [] prev1 = new int[heights.length];
-        Arrays.fill(prev1,-1);
+        // Arrays.fill(prev1,-1);
         Stack<Integer> st1 = new Stack<>();
         for(int i = 0; i<heights.length; i++){
             while(!st1.isEmpty() && heights[st1.peek()]>=heights[i]){
