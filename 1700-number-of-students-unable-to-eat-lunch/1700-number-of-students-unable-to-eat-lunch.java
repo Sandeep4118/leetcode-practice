@@ -24,7 +24,7 @@ class Solution {
                 count++;
             }
         }
-        return count;
+        return q.size();
 
     }
 }
