@@ -26,6 +26,7 @@ class Solution {
             answer.add(arr[1]);
             result.add(answer);
         }
+        Collections.reverse(result);
         return result;
     }
 }
