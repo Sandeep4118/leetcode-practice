@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep4118/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Sandeep4118/leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
