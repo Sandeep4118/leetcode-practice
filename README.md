@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Sandeep4118/leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Sandeep4118/leetcode-practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sandeep4118/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
