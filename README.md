@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sandeep4118/leetcode-practice/tree/master/0071-simplify-path) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sandeep4118/leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
