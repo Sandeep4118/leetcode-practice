@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Sandeep4118/leetcode-practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep4118/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0263-ugly-number) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sandeep4118/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/Sandeep4118/leetcode-practice/tree/master/1046-last-stone-weight) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
