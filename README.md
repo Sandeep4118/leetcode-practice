@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sandeep4118/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Sandeep4118/leetcode-practice/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Sandeep4118/leetcode-practice/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Sandeep4118/leetcode-practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sandeep4118/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep4118/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/0060-permutation-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Sandeep4118/leetcode-practice/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
