@@ -12,19 +12,20 @@ class Solution {
     public static void rotate(int [][]mat){
         int n = mat.length;
         // transpose
-        int[][] res = new int[mat.length][mat[0].length];
         for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                res[j][i] = mat[i][j];
+            for(int j = 0; j<i; j++){
+                int temp = mat[i][j];
+                mat[i][j] = mat[j][i];
+                mat[j][i] = temp;
             }
         }
 
         // reverse
         for(int i = 0; i<n; i++){
             for(int j = 0; j<n/2; j++){
-                int temp = res[i][j];
-                res[i][j] = res[i][res[0].length - j - 1];
-                res[i][res[0].length-j-1] = temp;
+                int temp = mat[i][j];
+                mat[i][j] = mat[i][mat[0].length - j - 1];
+                mat[i][mat[0].length-j-1] = temp;
             }
         }
 
