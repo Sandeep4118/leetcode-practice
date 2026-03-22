@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandeep4118/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandeep4118/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sandeep4118/leetcode-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sandeep4118/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sandeep4118/leetcode-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Math
 |  |
 | ------- |
