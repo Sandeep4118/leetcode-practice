@@ -30,11 +30,11 @@ class Solution {
 
         // update the mat with res
 
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                mat[i][j] = res[i][j];
-            }
-        }
+        // for(int i = 0; i<n; i++){
+        //     for(int j = 0; j<n; j++){
+        //         mat[i][j] = res[i][j];
+        //     }
+        // }
     }
     public boolean findRotation(int[][] mat, int[][] target) {
         for(int i = 0; i<4; i++){
