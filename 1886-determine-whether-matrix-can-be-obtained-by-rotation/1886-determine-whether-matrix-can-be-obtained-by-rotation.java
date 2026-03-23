@@ -42,7 +42,7 @@ class Solution {
             if(check(mat,target)){
                 return true;
             }
-            rotate(mat);
+            else rotate(mat);
         }   
         return false;
     }
