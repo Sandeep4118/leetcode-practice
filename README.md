@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sandeep4118/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Sandeep4118/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep4118/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0238-product-of-array-except-self](https://github.com/Sandeep4118/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sandeep4118/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sandeep4118/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Sandeep4118/leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 ## String
