@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Sandeep4118/leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sandeep4118/leetcode-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Math
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sandeep4118/leetcode-practice/tree/master/0118-pascals-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
