@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sandeep4118/leetcode-practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sandeep4118/leetcode-practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sandeep4118/leetcode-practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sandeep4118/leetcode-practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 <!---LeetCode Topics End-->
