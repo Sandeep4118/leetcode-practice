@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sandeep4118/leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0636-exclusive-time-of-functions](https://github.com/Sandeep4118/leetcode-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Sandeep4118/leetcode-practice/tree/master/0682-baseball-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sandeep4118/leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/Sandeep4118/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sandeep4118/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Sandeep4118/leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
