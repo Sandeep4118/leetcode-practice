@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sandeep4118/leetcode-practice/tree/master/0071-simplify-path) |
+| [0844-backspace-string-compare](https://github.com/Sandeep4118/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sandeep4118/leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Sandeep4118/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sandeep4118/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sandeep4118/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sandeep4118/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Sandeep4118/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sandeep4118/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandeep4118/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandeep4118/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Sandeep4118/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sandeep4118/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Sandeep4118/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sandeep4118/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandeep4118/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sandeep4118/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sandeep4118/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/Sandeep4118/leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
