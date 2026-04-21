@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Sandeep4118/leetcode-practice/tree/master/0071-simplify-path) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sandeep4118/leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
+| [2390-removing-stars-from-a-string](https://github.com/Sandeep4118/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandeep4118/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandeep4118/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
+| [2390-removing-stars-from-a-string](https://github.com/Sandeep4118/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandeep4118/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sandeep4118/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
+| [2390-removing-stars-from-a-string](https://github.com/Sandeep4118/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
