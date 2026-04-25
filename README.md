@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandeep4118/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandeep4118/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sandeep4118/leetcode-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sandeep4118/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Sandeep4118/leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
