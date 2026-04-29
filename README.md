@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sandeep4118/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2270-number-of-ways-to-split-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sandeep4118/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Sandeep4118/leetcode-practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/Sandeep4118/leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
