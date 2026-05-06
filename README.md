@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sandeep4118/leetcode-practice/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Sandeep4118/leetcode-practice/tree/master/0343-integer-break) |
 | [0507-perfect-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sandeep4118/leetcode-practice/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sandeep4118/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sandeep4118/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/Sandeep4118/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sandeep4118/leetcode-practice/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Sandeep4118/leetcode-practice/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Sandeep4118/leetcode-practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0494-target-sum) |
