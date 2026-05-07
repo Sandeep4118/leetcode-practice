@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sandeep4118/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0018-4sum) |
+| [0039-combination-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sandeep4118/leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Sandeep4118/leetcode-practice/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Sandeep4118/leetcode-practice/tree/master/0066-plus-one) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sandeep4118/leetcode-practice/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0494-target-sum) |
 ## Dynamic Programming
