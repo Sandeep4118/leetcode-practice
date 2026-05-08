@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Sandeep4118/leetcode-practice/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/Sandeep4118/leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sandeep4118/leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Sandeep4118/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandeep4118/leetcode-practice/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
 |  |
 | ------- |
