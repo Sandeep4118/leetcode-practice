@@ -22,27 +22,27 @@ class Solution {
             }
         }
 
-        StringBuilder str = new StringBuilder();
-        int i = m;
-        int j = n;
-        while(i>0 && j>0){
-            if(word1.charAt(i-1) == word2.charAt(j-1)){
-                str.append(word1.charAt(i-1));
-                i--;
-                j--;
-            }
-            else{
-                if(t[i-1][j] > t[i][j-1]){
-                    i--;
-                }
-                else{
-                    j--;
-                }
-            }
-        }
-        String result = str.reverse().toString();
-        int a = Math.abs(word1.length() - result.length());
-        int b = Math.abs(word2.length() - result.length());
+        // StringBuilder str = new StringBuilder();
+        // int i = m;
+        // int j = n;
+        // while(i>0 && j>0){
+        //     if(word1.charAt(i-1) == word2.charAt(j-1)){
+        //         str.append(word1.charAt(i-1));
+        //         i--;
+        //         j--;
+        //     }
+        //     else{
+        //         if(t[i-1][j] > t[i][j-1]){
+        //             i--;
+        //         }
+        //         else{
+        //             j--;
+        //         }
+        //     }
+        // }
+        // String result = str.reverse().toString();
+        int a = Math.abs(word1.length() - t[m][n]);
+        int b = Math.abs(word2.length() - t[m][n]);
         return a + b;
     }
 }
