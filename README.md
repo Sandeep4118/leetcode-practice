@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sandeep4118/leetcode-practice/tree/master/0071-simplify-path) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sandeep4118/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/Sandeep4118/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1092-shortest-common-supersequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Sandeep4118/leetcode-practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sandeep4118/leetcode-practice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sandeep4118/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
