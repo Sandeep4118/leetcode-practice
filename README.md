@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sandeep4118/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Sandeep4118/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep4118/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0216-combination-sum-iii](https://github.com/Sandeep4118/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Sandeep4118/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sandeep4118/leetcode-practice/tree/master/0046-permutations) |
+| [0216-combination-sum-iii](https://github.com/Sandeep4118/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
