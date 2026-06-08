@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sandeep4118/leetcode-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sandeep4118/leetcode-practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3941-password-strength](https://github.com/Sandeep4118/leetcode-practice/tree/master/3941-password-strength) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sandeep4118/leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/Sandeep4118/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Sandeep4118/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
+| [3941-password-strength](https://github.com/Sandeep4118/leetcode-practice/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
