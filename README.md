@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Sandeep4118/leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sandeep4118/leetcode-practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sandeep4118/leetcode-practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Monotonic Stack
