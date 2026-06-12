@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Sandeep4118/leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sandeep4118/leetcode-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sandeep4118/leetcode-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Sandeep4118/leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
