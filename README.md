@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Sandeep4118/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Sandeep4118/leetcode-practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep4118/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0223-rectangle-area](https://github.com/Sandeep4118/leetcode-practice/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sandeep4118/leetcode-practice/tree/master/0279-perfect-squares) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Sandeep4118/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sandeep4118/leetcode-practice/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Sandeep4118/leetcode-practice/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
