@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sandeep4118/leetcode-practice/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sandeep4118/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Sandeep4118/leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sandeep4118/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Sandeep4118/leetcode-practice/tree/master/0223-rectangle-area) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sandeep4118/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
